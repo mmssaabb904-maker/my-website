@@ -22,3 +22,4 @@ md golam kibria<md golam kibria>+<h1>
 
   <p><strong>Future Plan:</strong> I want to be a professional web developer because I love technology and building useful websites.</p>
 </section>
+<img src="images/photo.jpg" alt="My Photo" style="width:180px; border-radius:50%; border:3px solid #8da2ff;">
